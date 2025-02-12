@@ -1,11 +1,11 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: RPA
+subtitle: Reconnaissance Petrophysical Analysis
 image: assets/img/portfolio/04-full.jpg
 alt: 
 
 caption:
-  title: Lines
+  title: RPA
   subtitle: Branding
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
@@ -13,6 +13,6 @@ Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur 
 
 {:.list-inline}
 - Date: October 2019
-- Client: Lines
-- Category: Branding
+- Client: Hyperion
+- Category: GeoScience
 
