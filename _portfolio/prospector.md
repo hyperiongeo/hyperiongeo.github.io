@@ -1,18 +1,17 @@
 ---
 title: Prospector
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+subtitle: modern seismic/gpr interpretation system utilizing open-source components
+image: assets/img/portfolio/prospector-full.png
 alt: 
 
 caption:
-  title: Hyperion
+  title: Prospector
   subtitle: GeoScience
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  thumbnail: assets/img/portfolio/prospector-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Prospecrtor is a modern seismic interpretation package utilizing open source packages in Python to create world-class results!  All data is in open modern data formats that can easily be used in other packages.  Uses the QGIS <http://www.qgis.org> GIS system for easy to use mapping!
 
 {:.list-inline}
-- Date: October 2019
-- Client: Hyperion
-- Category: GeoScience
-
+- Date: October 2018
+- Client: Hyperion GeoServices
+- Category: Geophysics

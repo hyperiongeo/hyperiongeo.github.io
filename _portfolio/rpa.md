@@ -1,18 +1,17 @@
 ---
 title: RPA
 subtitle: Reconnaissance Petrophysical Analysis
-image: assets/img/portfolio/04-full.jpg
+image: assets/img/portfolio/rpa-full.png
 alt: 
 
 caption:
   title: RPA
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  subtitle: GeoScience
+  thumbnail: assets/img/portfolio/rpa-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Toolkit to perform advanced leading-edge porosity and petrophysical analysis on digital well log data sets over scaleable geographic areas (from pool size up to entire basins and provinces).  
 
 {:.list-inline}
-- Date: October 2019
-- Client: Hyperion
-- Category: GeoScience
-
+- Date: November 2015
+- Client: Hyperion GeoServices
+- Category: Geology
