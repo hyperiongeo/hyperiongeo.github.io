@@ -37,3 +37,5 @@ fonts:
     for: "serif"
   - name: "Roboto Slab"
     for: "body"
+
+heading-font: 'Sorts Mill Goudy'
