@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: RPA
-  subtitle: GeoScience
+  subtitle: Petrophysical Analysis
   thumbnail: assets/img/portfolio/rpa-thumbnail.png
 ---
 Toolkit to perform advanced leading-edge porosity and petrophysical analysis on digital well log data sets over scaleable geographic areas (from pool size up to entire basins and provinces).  

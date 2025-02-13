@@ -28,4 +28,4 @@ https://www.geologic.com/georock/
 {:.list-inline}
 - Date: July 2019
 - Client: geoLOGIC
-- Category: Rock Physics Interpretation
+- Category: Geophysics

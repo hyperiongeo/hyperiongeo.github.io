@@ -18,20 +18,20 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "With 30+ years of experience providing Advanced Geophysical Interpretation and Software Development Services for the GeoSciences across the world!"
+    text: "With 30+ years of experience providing Geophysical Interpretation and Software Development Services around the world!"
     section: services
     list:
       - title: "Geophysical Interpretation"
         desc: "Advanced geophysical interpretation for Western Canada and International (On/Off Shore) in Oil/Gas, Hydrogen, Helium, Lithium and Carbon Capture industries"
         icon: fas fa-microscope #find more at https://fontawesome.com/icons
-      - title: "Advanced Geoscience Analytics"
-        desc: "Utilizing advanced geophysical analysis incorporating petrophysics, modeling, inversion (pre and post-stack), rock physics, AVO and machine learning for advanced data analysis."
+      - title: "Leading Edge Geoscience Analytics"
+        desc: "Utilizing advanced geophysical and geological analysis incorporating petrophysics, modeling, inversion (pre and post-stack), rock physics, AVO and machine learning for advanced data analysis."
         icon: fas fa-chart-area
       - title: "Seismic Data Acquisition"
         desc: "Extensive experience in the design and management of small to large scale land 2D and 3D programs across western Canada"
         icon:  fas fa-drafting-compass # "fas fa-bomb" "fas fa-meteor" "fab fa-acquisitions-incorporated" fas fa-atom
       - title: "Seismic Data Processing"
-        desc: "In-depth knowledge for processing 2D and 3D seismic data across western Canada, and multiple offshore basins in Africa (Nigeria), Asia (Vietnam, Indonesia) and eastern Canada."
+        desc: "In-depth knowledge for processing 2D and 3D seismic datasets across western Canada, and multiple offshore basins in Africa (Nigeria), Asia (Vietnam, Indonesia) and eastern Canada."
         icon: fas fa-screwdriver # "fas fa-atom" 
       - title: "Geophysical Data Management"
         desc: "We can provide geophysical database management utilizing our extensive experience with corporate databases of all sizes."
@@ -42,10 +42,6 @@ en: &DEFAULT_EN
       - title: "Geoscience Software Development"
         desc: "Open Source and commercial Geoscience software development utilizing modern programming languages (Python and Powershell with some C#)"
         icon: fab fa-python
-
-      # - title: "Responsive Design"
-      #   desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-      #   icon: fas fa-laptop
 
 
   portfolio:
