@@ -21,14 +21,14 @@ en: &DEFAULT_EN
     text: "With 30+ years of experience providing Geophysical Interpretation and Software Development Services around the world!"
     section: services
     list:
-      - title: "Geophysical Interpretation"
-        desc: "Advanced geophysical interpretation for Western Canada and International (On/Off Shore) in Oil/Gas, Hydrogen, Helium, Lithium and Carbon Capture industries"
+      - title: "Seismic Interpretation"
+        desc: "Advanced Seismic interpretation for Western Canada and International (On/Off Shore) in Oil/Gas, Hydrogen, Helium, Lithium and Carbon Capture industries"
         icon: fas fa-microscope #find more at https://fontawesome.com/icons
       - title: "Leading Edge Geoscience Analytics"
         desc: "Utilizing advanced geophysical and geological analysis incorporating petrophysics, modeling, inversion (pre and post-stack), rock physics, AVO and machine learning for advanced data analysis."
         icon: fas fa-chart-area
       - title: "Seismic Data Acquisition"
-        desc: "Extensive experience in the design and management of small to large scale land 2D and 3D programs across western Canada"
+        desc: "Extensive experience in the design and management of small to large scale land 2D and 3D programs across western CanadaCanada and on freehold, Crown and First Nations lands."
         icon:  fas fa-drafting-compass # "fas fa-bomb" "fas fa-meteor" "fab fa-acquisitions-incorporated" fas fa-atom
       - title: "Seismic Data Processing"
         desc: "In-depth knowledge for processing 2D and 3D seismic datasets across western Canada, and multiple offshore basins in Africa (Nigeria), Asia (Vietnam, Indonesia) and eastern Canada."
